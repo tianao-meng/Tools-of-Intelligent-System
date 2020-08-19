@@ -7,3 +7,4 @@ In A3, I design a small convolutional network (CNN) to classify images from the 
 
 In A4, I create a fuzzy inferencing system to decide the Speed and Steering.
 
+
